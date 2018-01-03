@@ -4,4 +4,3 @@ roibos tea
 toast
 porridge
 coffee
-Tea
